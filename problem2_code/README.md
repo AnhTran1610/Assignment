@@ -2,6 +2,7 @@
 
 #### A security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic. Inbound rules control the incoming traffic to your instance, and outbound rules control the outgoing traffic from your instance. An inbound rule permits instances to receive traffic from the specified IPv4 or IPv6 CIDR address range, or from the instances associated with the specified security group.ss
 
+#### The tf file create for easy test that script running on AWS cloud. It will scans over all the instances, and remove the loose rule from instances which does not have that special tag. And the following rule should be removed: Inbound 0.0.0.0/0 on port 22
 -------------
 
 **Files:** 
