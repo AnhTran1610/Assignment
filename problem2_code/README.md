@@ -7,7 +7,7 @@
 
 **Files:** 
 ```
-    rm_loose_securitygroup_rule.py.py
+    rm_loose_securitygroup_rule.py
 ```
 
 ## Apply the script
