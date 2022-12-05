@@ -4,4 +4,4 @@
 
 #### I'm using following AWS services to design and build a three-tier cloud infrastructure: Elastic Compute Cloud (EC2), Auto Scaling Group, Virtual Private Cloud(VPC), Elastic Load Balancer (ELB), Security Groups and the Internet Gateway. Our infrastructure will be designed to be highly available and fault tolerant.
 
-![architect](./problem1_design/design_3_tier.png?raw=true "Architect")
+![architect](./problem1_design/design_3_tier.png)
