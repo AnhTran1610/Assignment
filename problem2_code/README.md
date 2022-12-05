@@ -18,4 +18,4 @@
 
 2. Now, from the current directory run the following command to validate the script.
 
-        python3 rm_loose_securitygroup_rule.py.py
+        python3 rm_loose_securitygroup_rule.py
